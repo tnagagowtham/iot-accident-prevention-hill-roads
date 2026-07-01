@@ -1,11 +1,11 @@
-# 🛣️ IoT-Based Accident Prevention System for Hill Roads
+# 🛣️ Hardware-Based Accident Prevention Concept Model for Hill Roads
 
 A hardware-only early-warning system built to reduce blind-curve collisions
 on hairpin bends along hill roads, using IR sensors and a warning signal.
 
 ## 📷 Project Photo
-*(Upload your photo here — drag it into this README's editor on GitHub
-and it will embed automatically)*
+<img width="3567" height="1811" alt="Steam_Project" src="https://github.com/user-attachments/assets/eb9af25a-5dc0-4365-a480-0f86a8938456" />
+
 
 ## 🚀 Overview
 Hairpin bends on hill roads are a common cause of head-on collisions
